@@ -137,6 +137,9 @@ a{
                 width: auto;
                 height: 100%;
             }
+                #test-header{
+                    color: white;
+                }
         #logo-title{
             width: 60%;
             height: 10%;
